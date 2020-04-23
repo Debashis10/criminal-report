@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(243, 212, 109);
+    
+    }
+    
+    h1{
+
+    color: rgb(150, 112, 16);
+    text-decoration-style: double;
+    margin-left: 36.5%;
+    
+    }
+
+    img{
+
+        size: 50px 50px 50px 50px;
+        shape-image-threshold: inherit;
+        appearance: round;
+        margin: 20px;
+        
+    }
